@@ -1,0 +1,7 @@
+build/
+.gdb_history
+.ccls-cache/
+.vscode/
+compile_commands.json
+
+**/*.tcdb
